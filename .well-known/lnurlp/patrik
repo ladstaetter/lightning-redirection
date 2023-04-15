@@ -1,0 +1,8 @@
+{"callback":"https://livingroomofsatoshi.com/api/v1/lnurl/payreq/8038ee61-29ca-4fd6-b46e-cb6236a633af",
+"maxSendable":100000000000,
+"minSendable":1000,
+"metadata":"[[\"text/plain\",\"Pay to Wallet of Satoshi user: potentbronze46\"],[\"text/identifier\",\"potentbronze46@walletofsatoshi.com\"]]",
+"commentAllowed":32,
+"tag":
+"payRequest"
+}
